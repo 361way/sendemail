@@ -55,6 +55,7 @@ NOTES:
 ---------------
 Usage Overview
 ---------------
+注：如果发送的有中文字符，请修改sendEmail 文件中的"message-charset"      => 'iso-8859-1',为"message-charset"      => 'utf-8',
 
 sendEmail-1.56 by Brandon Zehm <caspian@dotconf.net>
 
